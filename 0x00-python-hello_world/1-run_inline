@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script run a python code
+
+python3 -c "${PYCODE}"
