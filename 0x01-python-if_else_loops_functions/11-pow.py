@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Martins Akhivbareme
+# Return a power b
 
 def pow(a, b):
     return (a ** b)

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Martins Akhivbareme
+# Print from 0 to 99 with 2 number
 
 for number in range(0, 100):
     if number == 99:

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Martins Akhivbareme
+# print the alphabet apart q and e
 
 for letter in range(97, 123):
     if chr(letter) != 'q' and chr(letter) != 'e':
